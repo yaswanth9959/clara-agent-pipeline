@@ -1,0 +1,224 @@
+
+Company: Ben's Electrical Solutions
+
+00:04 | Just give me a second. We'll let Ben in.
+00:15 | Going forward, Naveen, if you can put Clara's display picture, that'll be helpful.
+00:21 | Clara support, I'm changing your name. Okay, cool. I'll let him in.
+
+00:37 | Yes, we're good. All right. Letting him in in three, two, one.
+
+00:43 | And Ben is a very sweet guy, by the way. He's in. Hey, Ben.
+
+01:01 | Good afternoon. Oh, wait. Oh, hey, hi. Good afternoon. Hey, Ben. How are you?
+
+01:07 | I'm doing well. How are you?
+
+01:13 | Very well. Thank you so much for asking. Really excited to kick things off for you.
+
+01:22 | Yeah, I just signed the DocuSign.
+
+01:29 | I think we were talking about three months to start.
+
+01:34 | After the three months, if you decide to continue, the price will stay the same.
+
+01:45 | Perfect.
+
+01:49 | It just helps you with the cost increase.
+
+01:53 | Awesome. I think I'll be getting a notification from the billing team.
+
+02:02 | I just wanted to introduce the new phase that you can probably see on your screen. That's Pawan.
+
+02:07 | Hey man.
+
+02:16 | Pawan's the one who started the whole journey of Clara Answer.
+
+02:26 | He's going to understand your expectations and present the solution to you.
+
+02:31 | He'll be a dedicated point of contact.
+
+02:41 | Sounds good.
+
+02:47 | Thank you so much, Bharat.
+
+02:55 | I'm super excited to get you started, Ben.
+
+03:00 | Got all the context of your business.
+
+03:06 | You're trying to solve answering calls with AI for your business.
+
+03:12 | We already have the base variant of the agent configured.
+
+03:19 | I just need to clarify a couple of details.
+
+03:25 | We'll complete configuration and make the agent available for testing today.
+
+03:31 | We'll share the number where the agent will be available.
+
+03:36 | We'll also share the dashboard so you can test calls.
+
+03:48 | After testing, we can schedule another call on Friday.
+
+04:00 | Then the agent can take live calls this weekend.
+
+04:10 | We'll divide this into office hours and after hours behaviour.
+
+04:23 | During office hours, is it only you who takes incoming calls?
+
+04:30 | Or is there anyone else?
+
+04:37 | No, right now it's just me.
+
+04:43 | My contractors already have numbers for field staff.
+
+04:50 | Mostly this is for new clients, small jobs, and service calls.
+
+04:59 | Okay, makes sense.
+
+05:05 | Your main business line will forward calls to Clara.
+
+05:18 | You currently have only one number which is your personal business number.
+
+05:24 | Do you happen to have a second number?
+
+05:28 | I do. I have another phone line I'll use for personal.
+
+05:32 | I just need to notify my contacts.
+
+05:40 | Until then, can I turn Clara on and off?
+
+05:55 | Since you use Android, we can forward calls if you decline or don't answer.
+
+06:18 | Once your second number is ready, Clara can be the first contact.
+
+06:26 | Then calls can transfer to you.
+
+06:36 | Clara can transfer calls if someone needs to talk to me?
+
+06:41 | Yes, once we have the second number.
+
+06:49 | Cool.
+
+07:03 | For scheduling appointments or quotes, do you charge a visit fee?
+
+07:17 | Yes. Our service call fee is $115.
+
+07:23 | That's just to get to the job site.
+
+07:30 | Then we charge hourly in half hour increments.
+
+07:38 | $98 per hour for residential.
+
+07:50 | $49 per half hour.
+
+08:02 | The $115 is just the call out fee.
+
+08:11 | For the first half hour it becomes about $150.
+
+08:20 | Do you want Clara to mention the service fee during calls?
+
+08:34 | Customers should know about it before booking.
+
+08:40 | Clara can mention it when customers ask.
+
+12:31 | We'll include the information but not mention it every call.
+
+12:56 | We'll start with website information for other details.
+
+13:01 | We can always adjust policies later.
+
+13:17 | We'll send notifications when there's a new call.
+
+13:23 | Do you have a preferred email address?
+
+13:36 | info@benselectricalsolutions.com
+
+14:04 | We'll also send SMS notifications.
+
+14:20 | Does it affect text messages?
+
+14:26 | No, text messages will work normally.
+
+14:59 | Now let's talk about after hours.
+
+15:09 | Do you dispatch emergency calls after hours?
+
+15:17 | No emergency calls except for some existing builders.
+
+15:22 | And one property manager.
+
+15:29 | For that property manager we can allow emergency patch through.
+
+15:49 | So one number can bypass Clara?
+
+15:54 | Yes.
+
+16:07 | Please share property details.
+
+16:41 | The company is GNM Pressure Washing.
+
+17:09 | They manage properties including gas stations.
+
+18:22 | There are about 20 gas stations we work with.
+
+18:38 | They will provide location details when they call.
+
+19:30 | That covers after-hours behaviour.
+
+19:40 | Working hours are Monday to Friday.
+
+19:46 | Website says 8:00 to 4:30.
+
+19:52 | Usually around 8:00 to 5:00.
+
+20:15 | We'll use website info to train the agent.
+
+20:26 | I'll send the dashboard and agent number.
+
+20:39 | You can test the system yourself.
+
+21:01 | Let's schedule another call Friday.
+
+21:06 | Do you have time?
+
+21:13 | I need to check my schedule.
+
+22:06 | Noon won't work.
+
+22:13 | The meeting will be less than 30 minutes.
+
+22:18 | Probably 15 to 20 minutes.
+
+22:23 | You'll test calls before that.
+
+22:34 | On Friday we can adjust anything.
+
+22:52 | Let's do Friday at 2 PM.
+
+23:00 | Perfect.
+
+23:08 | Then we can go live after that.
+
+23:35 | We can configure Clara to answer if you don't answer.
+
+23:42 | Ideally once the second number is ready.
+
+24:04 | If customers insist on speaking with someone, we can transfer.
+
+24:21 | There may be a few spam calls initially.
+
+24:36 | We'll adjust the filtering as we go.
+
+25:02 | Testing will be handled before going live.
+
+25:06 | If everything looks good we can launch.
+
+25:15 | I'll send the agent details and number.
+
+25:21 | You can call the agent directly to test.
+
+25:25 | Nothing is live yet.
+
+25:31 | You'll see post-call workflows.
+
+25:37 | Thank you so much for your time, Ben.
