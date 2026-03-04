@@ -1,0 +1,30 @@
+{
+  "account_id": "bens_electrical",
+  "company_name": "Ben's Electrical Solutions",
+  "business_hours": [],
+  "office_address": null,
+  "services_supported": [
+    "service calls",
+    "electrical troubleshooting",
+    "renovations",
+    "EV charger installation",
+    "hot tub electrical hookup",
+    "panel changes",
+    "residential electrical work",
+    "commercial electrical work"
+  ],
+  "emergency_definition": [],
+  "emergency_routing_rules": null,
+  "non_emergency_routing_rules": null,
+  "call_transfer_rules": null,
+  "integration_constraints": [],
+  "after_hours_flow_summary": null,
+  "office_hours_flow_summary": null,
+  "questions_or_unknowns": [
+    "Exact business hours (days, start/end, timezone) not confirmed in demo.",
+    "Precise emergency definition and routing contacts missing from demo.",
+    "Detailed non-emergency routing rules missing from demo.",
+    "Transfer timeout and retry configuration missing from demo."
+  ],
+  "notes": "Preliminary memo generated from demo call; many details to be confirmed during onboarding."
+}

@@ -1,0 +1,44 @@
+{
+  "account_id": "bens_electrical",
+  "company_name": "Ben's Electrical Solutions",
+  "business_hours": [
+    {
+      "day": "Monday-Friday",
+      "start": "08:00",
+      "end": "05:00",
+      "timezone": null
+    }
+  ],
+  "office_address": null,
+  "services_supported": [
+    "service calls",
+    "electrical troubleshooting",
+    "renovations",
+    "EV charger installation",
+    "hot tub electrical hookup",
+    "panel changes",
+    "residential electrical work",
+    "commercial electrical work"
+  ],
+  "emergency_definition": [
+    "Calls from property manager GNM Pressure Washing",
+    "Calls from existing builders"
+  ],
+  "emergency_routing_rules": {
+    "description": "Handle limited emergency calls (GNM Pressure Washing and existing builders) according to Ben's instructions.",
+    "contacts": [],
+    "fallback": "If transfer fails, assure the caller Ben will follow up as soon as possible."
+  },
+  "non_emergency_routing_rules": null,
+  "call_transfer_rules": null,
+  "integration_constraints": [],
+  "after_hours_flow_summary": "After hours, Clara should confirm if the call matches the limited emergency definition (for example, property manager GNM Pressure Washing or existing builders). If yes, collect name, number, and address and attempt to reach Ben; if not, collect details and confirm follow-up during business hours.",
+  "office_hours_flow_summary": "During business hours (Monday\u2013Friday) Clara should greet the caller, ask for the purpose of the call, collect name and callback number, and route appropriately.",
+  "questions_or_unknowns": [
+    "Exact business hours (days, start/end, timezone) not confirmed in demo.",
+    "Precise emergency definition and routing contacts missing from demo.",
+    "Detailed non-emergency routing rules missing from demo.",
+    "Transfer timeout and retry configuration missing from demo."
+  ],
+  "notes": "Preliminary memo generated from demo call; many details to be confirmed during onboarding. | Updated with onboarding-confirmed hours and emergency handling (where clearly specified)."
+}

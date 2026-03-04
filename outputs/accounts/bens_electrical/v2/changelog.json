@@ -1,0 +1,40 @@
+{
+  "after_hours_flow_summary": {
+    "from": null,
+    "to": "After hours, Clara should confirm if the call matches the limited emergency definition (for example, property manager GNM Pressure Washing or existing builders). If yes, collect name, number, and address and attempt to reach Ben; if not, collect details and confirm follow-up during business hours."
+  },
+  "business_hours": {
+    "from": [],
+    "to": [
+      {
+        "day": "Monday-Friday",
+        "start": "08:00",
+        "end": "05:00",
+        "timezone": null
+      }
+    ]
+  },
+  "emergency_definition": {
+    "from": [],
+    "to": [
+      "Calls from property manager GNM Pressure Washing",
+      "Calls from existing builders"
+    ]
+  },
+  "emergency_routing_rules": {
+    "from": null,
+    "to": {
+      "description": "Handle limited emergency calls (GNM Pressure Washing and existing builders) according to Ben's instructions.",
+      "contacts": [],
+      "fallback": "If transfer fails, assure the caller Ben will follow up as soon as possible."
+    }
+  },
+  "notes": {
+    "from": "Preliminary memo generated from demo call; many details to be confirmed during onboarding.",
+    "to": "Preliminary memo generated from demo call; many details to be confirmed during onboarding. | Updated with onboarding-confirmed hours and emergency handling (where clearly specified)."
+  },
+  "office_hours_flow_summary": {
+    "from": null,
+    "to": "During business hours (Monday\u2013Friday) Clara should greet the caller, ask for the purpose of the call, collect name and callback number, and route appropriately."
+  }
+}
